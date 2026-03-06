@@ -861,12 +861,27 @@ body {
       padding-left: 40px;
     }
 
+    .home-container {
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+
+    .home-content {
+      text-align: center;
+      padding-top: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
     .home-content h1 {
-      font-size: 22px;
+      font-size: 26px;
     }
 
     .home-content p {
-      font-size: 15px;
+      font-size: 16px;
     }
 
     .social-links a {
