@@ -862,7 +862,7 @@ body {
     }
 
     .home-container {
-      flex-direction: column;
+      flex-direction: column-reverse;
       justify-content: center;
       align-items: center;
       text-align: center;
